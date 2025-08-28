@@ -44,5 +44,63 @@ namespace Lista_enlazada_simple
                 actual = actual.Siguiente;
             }
         }
+
+        public void eliminar(int num)
+        {
+            Nodo actual = primero;
+            Nodo anterior = null;
+
+            while(actual != null)
+            {
+                if(actual.Numero == num)
+                {
+                    if (actual == primero)
+                        primero = primero.Siguiente;
+                    else
+                        anterior.Siguiente = actual.Siguiente;
+                    return;
+                }
+                anterior = actual;
+                actual = actual.Siguiente;
+            }
+        }
+
+        public bool buscar(int num)
+        {
+            Nodo actual = primero;
+
+            while (actual != null)
+            {
+                if(actual.Numero == num)
+                {
+                    return true;
+                }
+                actual = actual.Siguiente;
+            }
+            return false;
+        }
+
+        public void ordenarA()
+        {
+            Nodo actual = primero;
+
+            while(actual != null)
+            {
+                Nodo sig = actual.Siguiente;
+
+                while(sig != null)
+                {
+                    if(actual.Numero > sig.Numero)
+                    {
+                        int temp = actual.Numero;
+                        actual.Numero = sig.Numero;
+                        sig.Numero = temp;
+                    }
+                    sig = sig.Siguiente;
+                }
+
+                actual = actual.Siguiente;
+            }
+        }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\bin\Debug\Lista enlazada simple.exe.config
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\bin\Debug\Lista enlazada simple.exe
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\bin\Debug\Lista enlazada simple.pdb
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\obj\Debug\Lista enlazada simple.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\obj\Debug\Lista_enlazada_simple.Form1.resources
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\obj\Debug\Lista_enlazada_simple.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\obj\Debug\Lista enlazada simple.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\obj\Debug\Lista enlazada simple.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\obj\Debug\Lista enlazada simple.exe
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada simple\obj\Debug\Lista enlazada simple.pdb

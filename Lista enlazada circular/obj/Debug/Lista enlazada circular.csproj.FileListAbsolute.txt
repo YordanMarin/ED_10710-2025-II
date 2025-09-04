@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\bin\Debug\Lista enlazada circular.exe.config
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\bin\Debug\Lista enlazada circular.exe
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\bin\Debug\Lista enlazada circular.pdb
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista enlazada circular.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista_enlazada_circular.Form1.resources
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista_enlazada_circular.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista enlazada circular.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista enlazada circular.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista enlazada circular.exe
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista enlazada circular.pdb
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada circular\obj\Debug\Lista enlazada circular.exe.config

@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\bin\Debug\Lista enlazada doble.exe.config
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\bin\Debug\Lista enlazada doble.exe
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\bin\Debug\Lista enlazada doble.pdb
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista enlazada doble.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista_enlazada_doble.Form1.resources
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista_enlazada_doble.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista enlazada doble.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista enlazada doble.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista enlazada doble.exe
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista enlazada doble.pdb
+C:\Users\UPN\Desktop\ED\ED_10710-2025-II\Lista enlazada doble\obj\Debug\Lista enlazada doble.exe.config

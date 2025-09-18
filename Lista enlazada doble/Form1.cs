@@ -89,5 +89,22 @@ namespace Lista_enlazada_doble
                 MessageBox.Show("Seleccione un nombre de la lista!");
             }
         }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (listView1.SelectedItems.Count > 0)
+            {
+                string nom = listView1.SelectedItems[0].Text;
+
+                l.eliminar(nom);
+                listView1.Items.Clear();
+                l.mostrar(listView1);
+
+            }
+            else
+            {
+                MessageBox.Show("Seleccione un nombre de la lista!");
+            }
+        }
     }
 }

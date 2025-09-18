@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\bin\Debug\Pilas-stack.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\bin\Debug\Pilas-stack.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\bin\Debug\Pilas-stack.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\obj\Debug\Pilas-stack.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\obj\Debug\Pilas_stack.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\obj\Debug\Pilas_stack.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\obj\Debug\Pilas-stack.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\obj\Debug\Pilas-stack.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\obj\Debug\Pilas-stack.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Pilas-stack\obj\Debug\Pilas-stack.pdb

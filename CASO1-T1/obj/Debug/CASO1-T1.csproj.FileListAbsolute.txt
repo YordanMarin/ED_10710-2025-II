@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\bin\Debug\CASO1-T1.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\bin\Debug\CASO1-T1.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\bin\Debug\CASO1-T1.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1-T1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1_T1.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1_T1.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1-T1.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1-T1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1-T1.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1-T1.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\CASO1-T1\obj\Debug\CASO1-T1.exe.config

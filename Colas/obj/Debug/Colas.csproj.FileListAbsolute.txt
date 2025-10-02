@@ -1,0 +1,11 @@
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\bin\Debug\Colas.exe.config
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\bin\Debug\Colas.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\bin\Debug\Colas.pdb
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.csproj.AssemblyReference.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.Form1.resources
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.Properties.Resources.resources
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.csproj.GenerateResource.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.pdb
+C:\Users\YordanM\Desktop\Nueva carpeta\ED_10710-2025-II\Colas\obj\Debug\Colas.exe.config

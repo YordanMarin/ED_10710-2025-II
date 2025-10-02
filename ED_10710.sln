@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilas-stack", "Pilas-stack\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CASO1-T1", "CASO1-T1\CASO1-T1.csproj", "{7CF2C0A9-A27A-4300-AB27-88D1608CA695}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas", "Colas\Colas.csproj", "{2B4F874E-17D6-4A1D-A786-2E6F5E7A4254}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7CF2C0A9-A27A-4300-AB27-88D1608CA695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF2C0A9-A27A-4300-AB27-88D1608CA695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF2C0A9-A27A-4300-AB27-88D1608CA695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4F874E-17D6-4A1D-A786-2E6F5E7A4254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4F874E-17D6-4A1D-A786-2E6F5E7A4254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4F874E-17D6-4A1D-A786-2E6F5E7A4254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4F874E-17D6-4A1D-A786-2E6F5E7A4254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

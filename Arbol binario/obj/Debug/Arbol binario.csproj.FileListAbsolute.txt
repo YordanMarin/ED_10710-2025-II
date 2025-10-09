@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\bin\Debug\Arbol binario.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\bin\Debug\Arbol binario.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\bin\Debug\Arbol binario.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol binario.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol_binario.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol_binario.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol binario.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol binario.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol binario.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol binario.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\Arbol binario\obj\Debug\Arbol binario.exe.config

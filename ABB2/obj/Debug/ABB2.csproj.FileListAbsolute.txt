@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\bin\Debug\ABB2.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\bin\Debug\ABB2.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\bin\Debug\ABB2.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\ABB2\obj\Debug\ABB2.exe.config

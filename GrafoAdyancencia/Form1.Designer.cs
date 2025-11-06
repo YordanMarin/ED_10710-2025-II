@@ -35,6 +35,12 @@
             this.btnProfundidad = new System.Windows.Forms.Button();
             this.textAmplitud = new System.Windows.Forms.TextBox();
             this.textProfundidad = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textOrigen = new System.Windows.Forms.TextBox();
+            this.btnInsertar = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textDestino = new System.Windows.Forms.TextBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // label1
@@ -110,6 +116,68 @@
             this.textProfundidad.Size = new System.Drawing.Size(334, 26);
             this.textProfundidad.TabIndex = 42;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(32, 73);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(60, 20);
+            this.label2.TabIndex = 31;
+            this.label2.Text = "Origen:";
+            // 
+            // textOrigen
+            // 
+            this.textOrigen.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textOrigen.Location = new System.Drawing.Point(100, 67);
+            this.textOrigen.Margin = new System.Windows.Forms.Padding(2);
+            this.textOrigen.Name = "textOrigen";
+            this.textOrigen.Size = new System.Drawing.Size(62, 26);
+            this.textOrigen.TabIndex = 32;
+            // 
+            // btnInsertar
+            // 
+            this.btnInsertar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnInsertar.Location = new System.Drawing.Point(65, 139);
+            this.btnInsertar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnInsertar.Name = "btnInsertar";
+            this.btnInsertar.Size = new System.Drawing.Size(97, 38);
+            this.btnInsertar.TabIndex = 33;
+            this.btnInsertar.Text = "Insertar";
+            this.btnInsertar.UseVisualStyleBackColor = true;
+            this.btnInsertar.Click += new System.EventHandler(this.btnInsertar_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(32, 103);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(68, 20);
+            this.label3.TabIndex = 34;
+            this.label3.Text = "Destino:";
+            // 
+            // textDestino
+            // 
+            this.textDestino.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textDestino.Location = new System.Drawing.Point(100, 97);
+            this.textDestino.Margin = new System.Windows.Forms.Padding(2);
+            this.textDestino.Name = "textDestino";
+            this.textDestino.Size = new System.Drawing.Size(62, 26);
+            this.textDestino.TabIndex = 35;
+            // 
+            // listBox1
+            // 
+            this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 20;
+            this.listBox1.Location = new System.Drawing.Point(36, 200);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(126, 224);
+            this.listBox1.TabIndex = 36;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -121,6 +189,12 @@
             this.Controls.Add(this.btnAmplitud);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.btnMatriz);
+            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.textDestino);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.btnInsertar);
+            this.Controls.Add(this.textOrigen);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -137,6 +211,12 @@
         private System.Windows.Forms.Button btnProfundidad;
         private System.Windows.Forms.TextBox textAmplitud;
         private System.Windows.Forms.TextBox textProfundidad;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox textOrigen;
+        private System.Windows.Forms.Button btnInsertar;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox textDestino;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 

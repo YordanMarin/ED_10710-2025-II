@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\bin\Debug\GrafoDijsktra.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\bin\Debug\GrafoDijsktra.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\bin\Debug\GrafoDijsktra.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoDijsktra\obj\Debug\GrafoDijsktra.exe.config

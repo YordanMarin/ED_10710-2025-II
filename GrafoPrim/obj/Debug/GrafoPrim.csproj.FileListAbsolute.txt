@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\bin\Debug\GrafoPrim.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\bin\Debug\GrafoPrim.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\bin\Debug\GrafoPrim.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\obj\Debug\GrafoPrim.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\obj\Debug\GrafoPrim.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\obj\Debug\GrafoPrim.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\obj\Debug\GrafoPrim.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\obj\Debug\GrafoPrim.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\obj\Debug\GrafoPrim.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED_10710-2025-II\GrafoPrim\obj\Debug\GrafoPrim.pdb
